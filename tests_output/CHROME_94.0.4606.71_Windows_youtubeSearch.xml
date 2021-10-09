@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="youtubeSearch"
+    errors="0" failures="0" hostname="" id="" package="youtubeSearch" skipped="0"
+    tests="3" time="15.80" timestamp="">
+  
+    <testcase name="Test1" classname="youtubeSearch" time="7.823" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test2" classname="youtubeSearch" time="4.112" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test3" classname="youtubeSearch" time="3.865" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
